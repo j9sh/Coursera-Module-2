@@ -19,7 +19,7 @@ section {
 }
 
 section>h2 {
-    float: left;
+    float: right;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
     margin: 0;
